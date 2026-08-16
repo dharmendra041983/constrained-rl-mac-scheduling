@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the repository using the metadata below."
+type: software
+title: "Constrained RL for SLA-Aware MAC Scheduling"
+authors:
+  - family-names: "Kumar"
+    given-names: "Dharmendra"
+version: "0.1.0"
+date-released: "2026-08-16"
+license: "MIT"
+abstract: >-
+  Reference-anchored constrained reinforcement learning and strong
+  service-aware baselines for stress-testing SLA-aware heterogeneous
+  MAC scheduling under nominal and distribution-shift conditions.
+keywords:
+  - "5G-Advanced"
+  - "MAC scheduling"
+  - "constrained reinforcement learning"
+  - "URLLC"
+  - "PPO"
+  - "SLA"

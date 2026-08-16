@@ -1,0 +1,1 @@
+python run_experiments.py --profile paper --device cuda --methods PF EDF DeadlineAwarePF SLAWeightedPF ReferenceClassPF DemandAwareClassPF unconstrained fixed_penalty single_constraint multi_constraint --out results_final
